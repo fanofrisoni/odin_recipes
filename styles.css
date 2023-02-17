@@ -1,0 +1,49 @@
+* {
+    font-family: Helvetica, sans-serif;
+}
+body {
+    justify-content: center;
+    align-items: center;
+    background-color: floralwhite;
+}
+.hasbulla-chef {
+    padding: 50px;
+    width: 350px;
+    height: auto;
+}
+header {
+    margin-top: 20px;
+    margin-bottom: 0px;
+    display: flex;
+    justify-content: center;
+    background-color: bisque;
+    width: 100%;
+    height: auto;
+    border-radius: 5%;
+    box-shadow: 0 0 20px bisque;
+    padding: 20px;
+}
+.texto {
+    text-align: center;
+}
+a, ul {
+    text-decoration: none;
+    list-style-type: none;
+}
+h1 {
+    font-size: 90px;
+}
+a {
+    font-size: 35px;
+}
+h2 {
+    font-size: 20px;
+}
+a:hover {
+    background-color: black;
+    color: white;
+}
+img {
+    width: 35%;
+    height: auto;
+}

@@ -1,3 +1,4 @@
 # odin_recipes
-Recipe Webpage
+Nicer Recipe Webpage
 Learning HTML
+And CSS
